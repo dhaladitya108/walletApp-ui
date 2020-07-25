@@ -2,4 +2,4 @@
 
 This UI is inspired by [Ohad Peled](https://dribbble.com/shots/9084817-Conceptual-Dashboard-Screen)
 
-![screenshot](https://imgur.com/19w6Si6)
+![screenshot](https://i.ibb.co/tZhL18p/Screenshot-1595654474.png)
